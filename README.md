@@ -1,6 +1,6 @@
 This repository contains the official code for the paper:
 
-Orthogonal Common Neighbor: Less Redundancy, Less Deficiencies for Link Prediction
+OCN: Effectively Utilizing Higher-Order Common Neighbors for Better Link Prediction
 
 **Environment**
 
